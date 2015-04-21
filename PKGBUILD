@@ -6,7 +6,7 @@ pkgdesc="有道官方词典"
 arch=(x86_64)
 url="http://cidian.youdao.com/index-linux.html?keyfrom=cnbeta"
 license=('GPL')
-depends=('python' 'python-pyqt5' 'python-requests' 'python-xlib' 'python-pillow' 'tesseract-data-eng' 'tesseract-data-chi_tra' 'tesseract-data-chi_sim')
+depends=('python' 'python-pyqt5' 'python-requests' 'python-xlib' 'python-lxml' 'qt5-quickcontrols' 'qt5-graphicaleffects' 'qt5-webkit' 'python-pillow' 'tesseract-data-eng' 'tesseract-data-chi_tra' 'tesseract-data-chi_sim')
 source=("http://101.4.136.34:9999/codown.youdao.com/cidian/linux/youdao-dict_1.0.2~binary_amd64.tar.gz")
 md5sums=('84c75a7759e9abf97b636b4ffe625bd0')
 
