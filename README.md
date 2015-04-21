@@ -1,0 +1,2 @@
+# youdao_pkgbuild
+有道Linux客户端的PKGBUILD文件,方便Arch的pacman进行管理
